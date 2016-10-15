@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android TestRobot</string>
+    <string name="send">发送</string>
+    <string name="voice">语音</string>
+
+    <string-array name="welcome_tips">
+        <item>主人，终于与你相见了</item>
+        <item>主人，我好想你啊</item>
+        <item>主人，你还好吗</item>
+        <item>主人，你想做些什么呢</item>
+        <item>主人，欢迎回来</item>
+
+
+    </string-array>
+</resources>
